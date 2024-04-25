@@ -1,6 +1,7 @@
 # Adding challenge files to .gitignore
 .DS_Store
 api_keys.py
+geckodriver.log
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
