@@ -54,6 +54,6 @@ Using the weather data from WeatherPy, identify potential vacation spots that me
 
 ## Admin Note 📝
 
-> **⚠️ Important:** The `VacationPy` Jupyter notebook includes a map plot using `hvplot.points()`, which does not render directly on GitHub due to limitations of GitHub's static rendering of Jupyter notebooks. Following a discussion with my instructor, Benjamin Alford, he recommended taking screenshots of my map plots and include them as `.png` files in the repository.
+> **⚠️ Important:** The `VacationPy` Jupyter notebook includes a map plot using `hvplot.points()`, which does not render directly on GitHub due to limitations of GitHub's static rendering of Jupyter notebooks. Following a discussion with my instructor, Benjamin Alford, he recommended taking screenshots of my map plots and including them as `.png` files in the repository.
 >
 > Please note that this workaround addresses a GitHub limitation and is not a reflection of any error in my project's implementation. As saving the map plots as `.png` files was not originally required in the homework instructions, I kindly request that this not impact the grading of my assignment.
